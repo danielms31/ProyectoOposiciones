@@ -1,0 +1,3 @@
+1;Perico Palotes;Manolo;987654123;Tarde;Gestion
+2;Marta Ramos;Marta;66666666;Mañana;Almacen
+3;Santana Merino;Sebastian;123456789;Noche;Seguridad
